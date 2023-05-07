@@ -1,1 +1,1 @@
-# com-sci
+# com-sci landing page
